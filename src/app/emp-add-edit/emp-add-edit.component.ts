@@ -46,8 +46,8 @@ export class EmpAddEditComponent implements OnInit {
       if (this.data) {
         this._employeeService.updateEmployee(this.data.id, this.empForm.value).subscribe({
           next: (val: any) => {
-            this._coreService.openSnackBar('Employee updated successfully');
             this._dialogRef.close(true);
+            this._coreService.openSnackBar('Employee updated successfully');
           },
           error: (err: any) => {
             console.log(err);
