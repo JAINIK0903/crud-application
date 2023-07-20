@@ -11,6 +11,18 @@
       "experience": "1",
       "package": "3",
       "id": 2
+    },
+    {
+      "firstName": "Demo",
+      "lastName": "Employee",
+      "email": "demo@gmail.com",
+      "dob": "2002-09-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "TCS",
+      "experience": "2",
+      "package": "4",
+      "id": 3
     }
   ]
 }
