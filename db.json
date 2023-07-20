@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "John@gmail.com",
+      "dob": "1998-04-29T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Bacancy",
+      "experience": "1",
+      "package": "3",
+      "id": 2
+    },
+    {
+      "firstName": "Jainik",
+      "lastName": "Suthar",
+      "email": "jainiksuthar0903@gmail.com",
+      "dob": "2002-03-08T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Bacancy",
+      "experience": "1",
+      "package": "3",
+      "id": 3
+    }
+  ]
+}
